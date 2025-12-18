@@ -7,7 +7,7 @@ function Navbar() {
 
 
 
-            {/* Navbar */}
+            {/* Navbar link */}
             <nav className="flex items-center justify-between px-10 py-5">
                 <div className="w-40 m-9 ">
                     <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/static-assets/images/swiggy_logo_white.png" alt="" />
