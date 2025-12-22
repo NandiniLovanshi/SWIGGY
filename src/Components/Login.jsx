@@ -1,6 +1,7 @@
 import { X } from "lucide-react";
 
  function Login() {
+  
   return (
     <div className="min-h-screen flex items-center justify-center bg-white">
       <div className="relative w-full max-w-md px-6 py-8">
