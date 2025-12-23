@@ -1,9 +1,7 @@
 import React from 'react'
-import {
-    FiSearch,
-    FiChevronDown,
-    HiArrowUpRight
-} from "react-icons/fi";
+import { FiSearch } from "react-icons/fi";
+import { FiChevronDown } from "react-icons/fi";
+import { HiArrowUpRight } from "react-icons/hi2";
 import { HiLocationMarker } from "react-icons/hi";
 
 

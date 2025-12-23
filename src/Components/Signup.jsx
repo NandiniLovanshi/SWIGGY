@@ -29,7 +29,7 @@ function Signup() {
           {/* Illustration */}
           <div className="w-20 h-20 rounded-full bg-gray-100 flex items-center justify-center">
             <img
-              src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/icecream.png"
+              src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/Image-login_btpq7r"
               alt="illustration"
               className="w-14"
             />
