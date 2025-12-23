@@ -1,13 +1,13 @@
 import React from 'react'
-import SwiggyLanding from './components/SwiggyLanding.jsx'
-import FoodCollection from './components/FoodCollection.jsx'
-import InstaMartScroll from './components/InstaMartScroll.jsx'
-import DineoutScroll from './components/DineoutScroll.jsx'
-import AppNow from './components/AppNow.jsx'
-import CitiesSection from './components/CitiesSection.jsx'
-import Footer from './components/Footer.jsx'
-import Login from './components/Login.jsx'
-import Signup from './components/Signup.jsx'
+import SwiggyLanding from './Components/SwiggyLanding.jsx'
+import FoodCollection from './Components/FoodCollection.jsx'
+import InstaMartScroll from './Components/InstaMartScroll.jsx'
+import DineoutScroll from './Components/DineoutScroll.jsx'
+import AppNow from './Components/AppNow.jsx'
+import CitiesSection from './Components/CitiesSection.jsx'
+import Footer from './Components/Footer.jsx'
+import Login from './Components/Login.jsx'
+import Signup from './Components/Signup.jsx'
 
 function App() {
   return (
